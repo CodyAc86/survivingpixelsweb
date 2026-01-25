@@ -10,7 +10,7 @@
     <template #title>Sparks - a mobile game</template>
     <template #description>
       <p>
-        Sparks is a mobile 3D side-scroller game where you play as an electric
+        Sparks is a mobile 3D side-scroller singleplayer game where you play as an electric
         spark that jumps and zaps. There is a leveling system where you can
         upgrade your spark to be faster and more powerful. You need to jump,
         collect sparks, interact with objects and devices, run away or fight
@@ -22,7 +22,7 @@
       </p>
       <iframe
         style="width: 100%; height: auto; aspect-ratio: 16 / 9"
-        src="https://www.youtube.com/embed/ijHf6NH0Xj0?si=hqo3qa6r_2W9ktWt"
+        src="https://www.youtube.com/embed/0DsThSEotpo?si=jPLAFP3LndWemxU-"
         title="YouTube video player"
         frameborder="0"
         allow="

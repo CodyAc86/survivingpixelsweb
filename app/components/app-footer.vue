@@ -33,7 +33,11 @@ onUnmounted(() => {
 <template>
   <footer id="contact" class="main-footer">
     <div class="main-footer-section">
-      <h2>Contact</h2>
+      <h2>Contact</h2>      
+      Surviving Pixels
+      <br/>
+      Bussiness ID: 3547078-2
+      <br />
       <a href="mailto:info@survivingpixels.fi">info@survivingpixels.fi</a>
       <br />
       <a href="mailto:surviving.pixels86@gmail.com">
@@ -41,7 +45,7 @@ onUnmounted(() => {
       </a>
     </div>
     <div class="main-footer-section">
-      <h2>Address</h2>
+      <h2>Location</h2>
       <p>Tampere, Finland</p>
     </div>
     <button
