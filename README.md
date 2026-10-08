@@ -1,3 +1,7 @@
+# Website Created Using Nuxt
+
+This is the project created for my company website and you can test it at .(www.survivingpixels.fi).
+
 # Nuxt Minimal Starter
 
 Look at the [Nuxt documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
