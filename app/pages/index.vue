@@ -3,7 +3,7 @@
   <GameSection>
     <template #splash-image>
       <img
-        src="~/assets/images/sparks.jpg"
+        src="~/assets/images/sparks.webp"
         alt="Splash image for Sparks, the mobile game"
       />
     </template>

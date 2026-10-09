@@ -30,6 +30,13 @@
 .game-section-splash-image {
   grid-area: splash;
 }
+.game-section-splash-image :slotted(img) {
+  display: block;
+  width: auto;
+  max-width: 100%;
+  max-height: 21rem;
+  margin: 0 auto;
+}
 .game-section-title {
   grid-area: title;
 }

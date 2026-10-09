@@ -11,6 +11,7 @@
       <div class="main-nav-links">
         <NuxtLink to="/">Home</NuxtLink>
         <NuxtLink to="about">About</NuxtLink>
+        <NuxtLink to="/portfolio">Portfolio</NuxtLink>
         <NuxtLink to="contact">Contact</NuxtLink>
         <!-- <a href="#contact">Contact</a> -->
       </div>
